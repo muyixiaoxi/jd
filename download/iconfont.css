@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3500109 */
+  src: url('iconfont.woff2?t=1656991851596') format('woff2'),
+       url('iconfont.woff?t=1656991851596') format('woff'),
+       url('iconfont.ttf?t=1656991851596') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 12px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.iconfont3{
+  font-family: "iconfont" !important;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-renminbi1:before {
+  content: "\e635";
+}
+
