@@ -51,7 +51,7 @@ div.box {
   display: block;
   color: rgb(153, 153, 153);
   font-family: "宋体";
-  font-size: 7px;
+  font-size: 12px;
   margin: 0;
   text-align: center;
   text-decoration: none;
@@ -64,7 +64,7 @@ div.box {
   display: block;
   color: rgb(153, 153, 153);
   font-family: "宋体";
-  font-size: 7px;
+  font-size: 12px;
   margin: 0;
   text-align: center;
   text-decoration: none;
@@ -268,7 +268,7 @@ ul p {
   width: 130px;
   height: 34px;
   font-family: "宋体";
-  font-size: 7px;
+  font-size: 12px;
   border: 1px solid rgb(238, 238, 238);
   color: #e1251b;
   text-align: center;
